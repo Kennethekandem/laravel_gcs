@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "laravel-gcs-386511",
+  "private_key_id": "246d86956661e1c720a50cadbd8111da17e3291d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCx6weHEKsjlF6L\n+VztwxmhkzcXT5fVZGvUWViJC6WV03NLzUmWezJ3XcuMPEh9g+laL8Yz/1uEokoN\nPbFHdpmc7pDY/FBst+2txeq17clwR11gbKXfP66dIPLDzBRMvtgRITIO543DlB5g\nu1Q0Bw5Fobl7aS8NDlDOsnqufw2Mg773a40pPCLUvfSxiHoXbd9191IYLpcXYC8D\neB7PLcfHd9GiKOt2fimIYAplkAsaOX7RNZzZtQKSr2nJDa1seRj1z7vlagNv03Sz\nhJVS1d9sYzCe/pfJyGJUYpCUTGCLnj31ELEZflWcsHnJ8yO6/ILxqr9PO4IWCHKl\nbXdB6Bg7AgMBAAECggEATUQ6RSx2fmGpe9WER5eSsopaAwwkbt6JO7O/kOjXdQ1b\nBYD2Y91F6fP4eYMWojfe6DVWOO+9oYjPaxevPU9i3/X1Pt642LY6CN0qlO7bLCE6\nCq20jZM89G1CMMkYycmZ0Tqe4D0sYlMZrD2+kEe+KXxWLqPb9KoSaum1AMIZsrst\nFofMbETYLK8a514mIi7MFRf1hAbUhYnOKo9tdP+bZ0Jst+WbT4JOFFyzRglrQ6Re\nH5wwo7df6SSpN9NahldfwJ8NTrFT5yQJuQTozG1ybGcmGSZQh4UmVYje6Xg0/29h\nP2VtHeg1u6v37ivCQ8e51mgSTy7B3PPg5224R8SjbQKBgQDZPK1oxporvsUGSk8R\nIAf/IBF9D0mAma5JVCLfN4QVZxKwp7xeOZc0ToIxbjdsnAriMjXwIbboBkXALkSN\nO4VPoR5kVsJsHpXcihA3cJh5sG1Em0QktBlFAwR6g5ZmiPFaptZHON3xPlJ4pRvN\nAToIB3+5vGQzQqv3Iod6QJJ7rQKBgQDRqkZOsf+pmf4iRDCWGAbJlax1hpB9F/n5\nQP2mV84adE+GIz49uXse60YRGplKyLb2kT4/d3FSz0Fps9uDFvRMXUMJjKAKDF+5\nw+ikQ3XYKjq3mIbhwX4vZ4KpyiWnaD5Y2DjMhvzjCCAGtddt5l5XlSyhPtb+IO23\nFZcfKGhghwKBgADQv33jMPT1FFw/ryhLTHxirG4hvo7jBMp1rGPWG4LRDjrnhkd8\nQ9sIaGizFzYrJ8dNlPI/ziX00BI2mj9Fd+yimDCcOsKZIsrfIcxzeb8LMH3Pb2QL\n4QRnTH8BO3FLFkzWz3sY9YxQRZL6W65bUNJy5MHXuTCQEYEt+gA1eddJAoGBAJie\nAqmcBgcV0hhtXJSVDrPEIJI4DosQXeSi+0APYDZ/fbedhdv2XPnntswSeY0nR495\nsD8Qmcv2k532zw3AMro3lOmplIFb+n5Fbd3MQUbFjpJAE8bXSxwEk+c1/2y5g9C2\nK7otdH1qV62qxhL4gqnsK12AWY0IuSDxNVz30+qXAoGBAMu3JJJBMe/4UdzQE2Go\n0Q0ep35IetY8julNEzMEjN49IjWucKlHswScfMFjxiLNenDJE+dKrOkriPHkBvd/\naCj3Brvha/L4Khh+16hiVgJe+y4f1PB9NEzJ130t4Zvk6sZ6QS0yLdc0oskavgGU\nglA9XJK1qRISJXhu1cgdNb1C\n-----END PRIVATE KEY-----\n",
+  "client_email": "laravel-gcs-kenneth-test@laravel-gcs-386511.iam.gserviceaccount.com",
+  "client_id": "114929458374934710047",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/laravel-gcs-kenneth-test%40laravel-gcs-386511.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
