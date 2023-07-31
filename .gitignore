@@ -17,4 +17,4 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-laravel_gsc.json
+laravel-gcs.json
